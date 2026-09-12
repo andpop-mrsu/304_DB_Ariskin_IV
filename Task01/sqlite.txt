@@ -1,0 +1,2 @@
+Версия SQLite: SQLite version 3.53.4 2026-07-24 19:02:57
+Доступные режимы вывода данных: ascii box c column count csv html insert jatom jobject json line list markdown off psql qbox quote split table tabs tcl batch tty
